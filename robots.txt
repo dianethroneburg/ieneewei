@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iyosaunahv.arjun.is/sitemap.xml
